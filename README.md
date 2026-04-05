@@ -1,4 +1,4 @@
-# 🚀 SubSaaS — AI-Powered Subscription Management System
+# 🚀 SubSaaS — AI-Powered Subscription Management System #
 
 A **full-stack, production-ready SaaS platform** built with Next.js (App Router), MongoDB, Tailwind CSS, JWT Auth, and Recharts.
 
