@@ -5,7 +5,7 @@ A **full-stack, production-ready SaaS platform** built with Next.js (App Router)
 ## ✨ Features
 
 ### Core Modules
-- **Authentication & Roles** — JWT-based with Admin, Internal User,
+- **Authentication & Roles** — JWT-based with Admin, Internal User, Customer roles
 - **Product Management** — CRUD with variant support (attribute/value/extra price)
 - **Recurring Plans** — Daily/Weekly/Monthly/Yearly billing, renewable, pausable, auto-close
 - **Subscription Management** — Full status flow: Draft → Quotation → Confirmed → Active → Closed
